@@ -161,6 +161,7 @@ coverage.xml
 *.mo
 *.pot
 .aws-sam
+.idea
 
 # Flask stuff:
 instance/
